@@ -2948,7 +2948,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 if(count<10){
                     count++;
                 } else {
-                    window.location = 'https://akshathsuresh.github.io/';
+                    window.location = 'https://akshathsuresh.github.io/public/';
                 }
             })
 
